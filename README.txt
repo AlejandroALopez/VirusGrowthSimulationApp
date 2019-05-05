@@ -10,4 +10,4 @@ To test the program, follow these steps:
 
 5. It that does not work, try: python3 VirusGrowthSimulation.py
 
-6. If the graphs don't show, you may need to install Matplotlib, a Python library. The follow the instructions of this link: https://matplotlib.org/users/installing.html
+6. If the graphs don't show, you may need to install Matplotlib, a Python library. Then follow the instructions of this link: https://matplotlib.org/users/installing.html
